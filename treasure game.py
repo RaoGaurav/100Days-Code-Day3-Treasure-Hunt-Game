@@ -31,7 +31,7 @@ print("Welcome to my treasure Game \n Do want to play press enter")
 input()
 
 # conditions of the game to choose from
-print("which way you want to go right or left \n")
+print("which way you want to go right or left")
 if input()=="left":
   print("There is a river do you want to swim or wait")
   if input()=="wait":
